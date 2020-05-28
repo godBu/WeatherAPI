@@ -1,6 +1,6 @@
 // npm i node-fetch
 const fetch = require('node-fetch');
-const fs = require('fs');
+//const fs = require('fs');
 const APPID = 'ebf52f9e0d4f6e129914eb11e713212d';
 const url = `http://api.openweathermap.org/data/2.5/weather?q=Manchester&appid=${APPID}`;
 
